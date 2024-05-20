@@ -42,6 +42,6 @@ def py_projects():
     return render_template('py_projects.html', year=year)
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
 
